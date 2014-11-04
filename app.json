@@ -8,7 +8,6 @@
   "website": "http://glossproject.github.io",
   "env": {
     "BUILDPACK_URL": "https://github.com/pigeonflight/heroku-buildpack-plone",
-    "GLOSS_PACK": "",
     "ADMIN_PASSWORD":"chooseabetterpassword"
   },
   "addons": [
