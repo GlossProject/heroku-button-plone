@@ -1,12 +1,12 @@
 {
-  "name": "Plone on Heroku",
-  "description": "A simple Plone site hosted on Heroku. Login with admin:admin.",
+  "name": "Gloss. Web Design Process. Refined.",
+  "description": "Gloss is an early experiment in making site development easier.",
   "repository": "https://github.com/plone/heroku-button-plone",
-  "logo": "http://www.coactivate.org/projects/plone-marketing/plone-logo-guidelines/plone-vertical-logo.png",
-  "keywords": ["plone", "python", "cms"],
-  "website": "http://plone.org",
+  "logo": "https://raw.githubusercontent.com/GlossProject/gloss.theme/master/gloss/theme/diazo_resources/preview.png"
+  "keywords": ["gloss", "plone", "python", "cms"],
+  "website": "http://glossproject.github.io",
   "env": {
-    "BUILDPACK_URL": "https://github.com/plone/heroku-buildpack-plone"
+    "BUILDPACK_URL": "https://github.com/pigeonflight/heroku-buildpack-plone"
   },
   "addons": [
     "heroku-postgresql:hobby-dev",
