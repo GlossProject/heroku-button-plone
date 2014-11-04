@@ -8,7 +8,6 @@
   "website": "http://glossproject.github.io",
   "env": {
     "BUILDPACK_URL": "https://github.com/pigeonflight/heroku-buildpack-plone",
-    "BOOTSTRAP_PY_URL": "http://downloads.buildout.org/1/bootstrap.py"
   },
   "addons": [
     "heroku-postgresql:hobby-dev",
