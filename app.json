@@ -2,7 +2,7 @@
   "name": "Gloss. Web Design Process. Refined.",
   "description": "Gloss is an early experiment in making site development easier.",
   "repository": "https://github.com/plone/heroku-button-plone",
-  "logo": "https://raw.githubusercontent.com/GlossProject/gloss.theme/master/gloss/theme/diazo_resources/preview.png"
+  "logo": "https://raw.githubusercontent.com/GlossProject/gloss.theme/master/gloss/theme/diazo_resources/preview.png",
   "keywords": ["gloss", "plone", "python", "cms"],
   "website": "http://glossproject.github.io",
   "env": {
