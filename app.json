@@ -7,7 +7,7 @@
   "keywords": ["gloss", "plone", "python", "cms"],
   "website": "http://glossproject.github.io",
   "env": {
-    "BUILDPACK_URL": "https://github.com/pigeonflight/heroku-buildpack-plone",
+    "BUILDPACK_URL": "https://github.com/pigeonflight/heroku-buildpack-plone/tree/gloss",
     "ADMIN_PASSWORD":"chooseabetterpassword"
   },
   "addons": [
