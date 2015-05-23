@@ -1,10 +1,10 @@
 {
   "name": "Plone on Heroku",
   "description": "A simple Plone site hosted on Heroku. Login with admin:admin.",
-  "repository": "https://github.com/plone/heroku-button-plone",
-  "logo": "http://www.coactivate.org/projects/plone-marketing/plone-logo-guidelines/plone-vertical-logo.png",
-  "keywords": ["plone", "python", "cms"],
-  "website": "http://plone.org",
+  "repository": "https://github.com/GlossProject/heroku-button-plone",
+  "logo": "https://avatars2.githubusercontent.com/u/9266725?v=3&s=200",
+  "keywords": ["gloss","plone", "python", "cms"],
+  "website": "http://glossproject.github.io",
   "env": {
     "BUILDPACK_URL": "https://github.com/GlossProject/heroku-buildpack-plone#env-vars"
   },
